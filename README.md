@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IOT, ML, AI, IT and any other technologies
 - 📫 How to reach me ...
 Name: Prashant Shah
-Email: shahprashant030@gmail.com
+- Email: shahprashant030@gmail.com
 WhatsApp: +919035270794 (https://wa.me//919035270794)
 Contact Number: +9779844391989
 LinkedIn: https://www.linkedin.com/in/shahprashant030
