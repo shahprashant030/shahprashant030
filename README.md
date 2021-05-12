@@ -10,6 +10,7 @@
 - Contact Number: +9779844391989
 - LinkedIn: https://www.linkedin.com/in/shahprashant030
 - Github: https://github.com/shahprashant030
+- https://twitter.com/shahprashant030
 - Instagram: https://instagram.com/i.prashantshah
 - Facebook: https://www.facebook.com/the.phenomenal.01
 
