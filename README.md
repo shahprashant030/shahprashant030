@@ -6,8 +6,7 @@
 - ----------------------------------------------------------- -
 - Name: Prashant Shah
 - Email: shahprashant030@gmail.com
-- WhatsApp: +919035270794 (https://wa.me//919035270794)
-- Contact Number: +9779844391989
+- Contact Number: +9779844391989 | +818093846250 | [Whatsapp Only: https://wa.me//919035270794]
 - LinkedIn: https://www.linkedin.com/in/shahprashant030
 - Github: https://github.com/shahprashant030
 - Twitter: https://twitter.com/shahprashant030
