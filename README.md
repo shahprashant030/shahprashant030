@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shahprashant030
-- 👀 I’m interested in IOT, ML, AI, IT and other technologies
-- 💞️ I’m looking to collaborate on IOT, ML, AI, IT and any other technologies
-- 💼 I work as a Software Engineer at Yupiteru Corporation, Shizuoka, Japan. Working in AI Department
+- 👀 I’m interested in AI, IOT, ML, IT and other technologies
+- 💼 I work as a Software Engineer at Yupiteru Corporation, Kagoshima, Japan. 
 - 📫 How to reach me ...
 - ----------------------------------------------------------- -
 - Name: Prashant Shah
